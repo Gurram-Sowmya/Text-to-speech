@@ -11,4 +11,10 @@ This is a simple Text-to-Speech application built using Python and the Streamlit
 - 🎧 Listen to the generated speech using the built-in audio player.
 - 📥 Download the generated speech as an MP3 file.
 
+## Dependencies 📦
+
+- Python 3.6+
+- Streamlit
+- pyttsx3
+
 
