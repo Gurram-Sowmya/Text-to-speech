@@ -17,7 +17,8 @@ This is a simple Text-to-Speech application built using Python and the Streamlit
 - Streamlit
 - pyttsx3
 -
-- ![tts](https://github.com/Gurram-Sowmya/Text-to-speech/assets/68685769/10483279-4ca2-440c-9915-408c8ffb5915)
+
+ ![tts](https://github.com/Gurram-Sowmya/Text-to-speech/assets/68685769/10483279-4ca2-440c-9915-408c8ffb5915)
 
 
 
